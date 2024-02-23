@@ -39,4 +39,6 @@ Nos enorgullece presentar un ecosistema digital que no solo responde a las neces
 
 [Figma](https://www.figma.com/proto/bOMQNpejiUNXV5z84tFxQy/TisserIA?type=design&node-id=84-729&t=h3rRGDh6xm7Vujva-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=84%3A729&show-proto-sidebar=1&mode=design) - Mockup del aplicativo
 
+[Presentacion](https://www.canva.com/design/DAF78aKLuxE/Vltrx8uS9cFH1n5XaIOTeQ/edit) - Diapositivas
+
 ![Home page](Home.jpg)
