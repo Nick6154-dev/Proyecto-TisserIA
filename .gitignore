@@ -1,0 +1,8 @@
+/Front-End/.idea
+/Front-End/mobile-app/.expo
+/Front-End/mobile-app/.idea
+/Front-End/mobile-app/android
+/Front-End/mobile-app/node_modules
+# Project exclude paths
+/Front-End/mobile-app/app.d.ts
+/Back-End/filter-service/blip-image-captioning-large-crochet-pattern-finetuned-3
